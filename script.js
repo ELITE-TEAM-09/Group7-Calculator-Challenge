@@ -1,3 +1,4 @@
+//Input keys and display functions
 const keys = document.querySelectorAll('.key');
 const display_input = document.querySelector('.display .input');
 const display_output = document.querySelector('.display .output');
@@ -47,6 +48,7 @@ for (let key of keys) {
 	})
 }
 
+//Functions for different keys
 function CleanInput(input) {
 	let input_array = input.split("");
 	let input_array_length = input_array.length;
