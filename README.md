@@ -11,7 +11,7 @@ The calculator should display the result of the operation to the user.
 The program should handle invalid inputs gracefully and display appropriate error messages.
 
 Extra deliverables
-Host your site on Netlify or Vercel
+Host your site on Netlify or Vercel: https://jovial-griffin-257dc8.netlify.app/
 
 Host your repository in the Elite Team organization.
 The naming format should be group-number name/calculator-mini-app. Example  Group-4/calculator-mini-app
